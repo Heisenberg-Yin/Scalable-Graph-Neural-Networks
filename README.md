@@ -16,6 +16,12 @@
 - [Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/abs/1911.07323)
 - [Adaptive Sampling Towards Fast Graph Representation Learning](https://arxiv.org/abs/1809.05343)
 
+### Coarse to fine
+
+- [GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding](https://arxiv.org/abs/1910.02370)
+- [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://arxiv.org/abs/1802.09612)
+- [HARP: Hierarchical Representation Learning for Networks](https://arxiv.org/abs/1706.07845)
+
 ### Others
 
 - [Large-Scale Learnable Graph Convolutional Networks](https://arxiv.org/abs/1808.03965)
